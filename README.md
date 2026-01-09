@@ -1,8 +1,8 @@
-<h2 align="left">Oii, meu nome é João Vitor <br>Sou Desenvolvedor Full Stack com base sólida em desenvolvimento web,<br>adquirida ao longo de projetos acadêmicos e estudos no curso de<br>Análise e Desenvolvimento de Sistemas pelo SENAI.</h2>
+<h4 align="center">Desenvolvedor full-stack com foco em boas práticas de programação, organização de código e resolução de problemas reais. Busco minha primeira oportunidade de estágio para evoluir tecnicamente e gerar valor ao time e ao negócio.</h4>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src=""  />
 
 ###
 
